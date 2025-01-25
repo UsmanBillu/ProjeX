@@ -1,7 +1,7 @@
 # ProjeX
 ProjeX is a collection of my academic projects and experiments from university. It showcases the practical applications of the concepts I've learned across various subjects and disciplines. From coding challenges to software development projects, ProjeX is my personal repository for all things related to my academic journey.  
 **Contents:**  
-&nbsp;&nbsp;&nbsp;* Project 1: [Brief description of what the project is about]  
+&nbsp;&nbsp;&nbsp;* Project 1: [Its a 2-DIMENSIONAL game known as space invaders completely build in c++(procedural).]  
 **Features:**  
 &nbsp;&nbsp;&nbsp;* A diverse range of projects from different subjects.  
 &nbsp;&nbsp;&nbsp;* Code examples, reports, and documentation for each project.  
